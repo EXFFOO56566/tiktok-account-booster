@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10,
+    "name": "pack 1",
+    "pricing": 5,
+    "number_of_stars": 10,
+    "packs_bought": 10,
+    "created_date": "20/10/2020",
+    "updated_date": "21/10/2020"
+  },
+  {
+    "id": 12,
+    "name": "pack 2",
+    "pricing": 20,
+    "number_of_stars": 10,
+    "packs_bought": 100,
+    "created_date": "20/10/2020",
+    "updated_date": "21/10/2020"
+  }
+]

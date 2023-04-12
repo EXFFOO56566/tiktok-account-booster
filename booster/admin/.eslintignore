@@ -1,0 +1,5 @@
+node_modules/*
+webpack/*
+postcss.config.js
+tailwind.config.js
+.eslintrc.json

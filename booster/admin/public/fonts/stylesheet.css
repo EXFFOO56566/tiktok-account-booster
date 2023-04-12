@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-BoldItalic.woff2') format('woff2'),
+        url('Campton-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-BlackItalic.woff2') format('woff2'),
+        url('Campton-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-Bold.woff2') format('woff2'),
+        url('Campton-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-Black.woff2') format('woff2'),
+        url('Campton-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-BookItalic.woff2') format('woff2'),
+        url('Campton-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-Book.woff2') format('woff2'),
+        url('Campton-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton ExtBd';
+    src: url('Campton-ExtraBoldItalic.woff2') format('woff2'),
+        url('Campton-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton ExtLt';
+    src: url('Campton-ExtraLight.woff2') format('woff2'),
+        url('Campton-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton ExtBd';
+    src: url('Campton-ExtraBold.woff2') format('woff2'),
+        url('Campton-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton ExtLt';
+    src: url('Campton-ExtraLightItalic.woff2') format('woff2'),
+        url('Campton-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-Light.woff2') format('woff2'),
+        url('Campton-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-LightItalic.woff2') format('woff2'),
+        url('Campton-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton Med';
+    src: url('Campton-Medium.woff2') format('woff2'),
+        url('Campton-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton Med';
+    src: url('Campton-MediumItalic.woff2') format('woff2'),
+        url('Campton-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-Thin.woff2') format('woff2'),
+        url('Campton-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton SemBd';
+    src: url('Campton-SemiBoldItalic.woff2') format('woff2'),
+        url('Campton-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton SemBd';
+    src: url('Campton-SemiBold.woff2') format('woff2'),
+        url('Campton-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Campton';
+    src: url('Campton-ThinItalic.woff2') format('woff2'),
+        url('Campton-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+

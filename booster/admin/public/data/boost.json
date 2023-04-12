@@ -1,0 +1,18 @@
+[
+  {
+    "id": 10,
+    "number_of_stars": 10,
+    "number_of_follows": 5,
+    "boost_used": 10,
+    "created_date": "20/10/2020",
+    "updated_date": "21/10/2020"
+  },
+  {
+    "id": 12,
+    "number_of_stars": 100,
+    "number_of_follows": 50,
+    "boost_used": 3,
+    "created_date": "20/10/2020",
+    "updated_date": "21/10/2020"
+  }
+]
